@@ -1,0 +1,30 @@
+tr.a {
+background-color: #86B9C6;
+}
+tr.b td.a{
+  background-color: #86B9C6;
+}
+tr.b td.b{
+  background-color:#0BF9F9;
+}
+tr.b td.c{
+  background-color: pink;
+}
+tr.b td.e{
+  background-color: #FF00FF;
+}
+tr.b td.f{
+  background-color: #ca50f5;
+}
+tr.b td.g{
+  background-color: #e625ba;
+}
+tr.b td.h{
+  background-color:#ed8312;
+}
+tr.b td.i{
+  background-color: #f9996a;
+}
+tr.b td.j{
+  background-color:#fb0584;
+}
